@@ -1,4 +1,4 @@
-# 5th_project Medical X-ray Image Classification using Convolutional Neural Network
+## 5th_project Medical X-ray Image Classification using Convolutional Neural Network
 ### The dataset that we are going to use for the image classification is Chest X-Ray images, which consists of 4 categories,  Covid-19, Normal, Viral Pneumonia and Bacterial Pneumonia.
 ### The data set is organised into 2 folders (train, test) 
 ### Total number of observations (images): 572
@@ -17,6 +17,6 @@
 ## 5. Evaluate
 
 ### Image Augmentation expands the size of the dataset by creating a modified version of the existing training set images that helps to increase dataset variation and ultimately improve the ability of the model to predict new images.
-## We used to Optimize the hyperparameters of the CNN through GridSearch
+### We used to Optimize the hyperparameters of the CNN through GridSearch
 ###  Conclusion: 
 ### We’ve created a CNN model that can classify X-Ray images as Covid-19, Normal, Viral Pneumonia and Bacterial Pneumonia  with an accuracy of over 75% on the test set and 92% on the training set.
