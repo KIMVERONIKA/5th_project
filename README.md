@@ -1,5 +1,5 @@
-## 5th_project Medical X-ray Image Classification using Convolutional Neural Network
-### The dataset that we are going to use for the image classification is Chest X-Ray images, which consists of 4 categories,  Covid-19, Normal, Viral Pneumonia and Bacterial Pneumonia.
+ 5th_project Medical X-ray Image Classification using Convolutional Neural Network
+ The dataset that we are going to use for the image classification is Chest X-Ray images, which consists of 4 categories,  Covid-19, Normal, Viral Pneumonia and Bacterial Pneumonia.
 ### The data set is organised into 2 folders (train, test) 
 ### Total number of observations (images): 572
 ### Training observations: 532 (133 Normal cases, 133 Covid-19 cases, 133 Viral Pneumonia cases, 133 Bacterial Pneumonia cases)
