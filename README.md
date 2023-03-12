@@ -1,25 +1,26 @@
  ## 5th_project Medical X-ray Image Classification using Convolutional Neural Network
+ 
+ ## Objective/Goal
+ 
+ ## Role
+ We worked independently for 1 month for our 5th team project to extract, clean, analyze, visualize, create model and fit the models.
+ 
+ ## Data
  The dataset that we are going to use for the image classification is Chest X-Ray images, which consists of 4 categories,  Covid-19, Normal, Viral Pneumonia and Bacterial Pneumonia.
  The data set is organised into 2 folders (train, test) 
  Total number of observations (images): 572
  Training observations: 532 (133 Normal cases, 133 Covid-19 cases, 133 Viral Pneumonia cases, 133 Bacterial Pneumonia cases)
  Testing observations: 40 (10 Normal cases, 10 Covid-19 cases, 10 Viral Pneumonia cases, 10 Bacterial Pneumonia cases)
  
- Project of Content
+## Tools Used
+ CNN and GridSearch
  
- 1.The Dataset
+ ## Models Used
  
- 2.Data Analysis
- 
- 3.Preparing the Data
- 
- 3.1 Data Augmentation
-
- 4. Convolutional Neural Network
- 5. 
- 6.1 Fit the model
- 
- 7.2 CNN and GridSearch
+   ## Code 
+   Code for this project can be found here: 
+   
+    ## Results
 
  5. Evaluate
 
