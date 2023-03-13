@@ -4,7 +4,7 @@
  To create a model by Convolution Neural Network (CNN) that can classify X-Ray images as Covid-19, Normal, Viral Pneumonia or Bacterial Pneumonia. 
  
  ## Role
- We worked independently for 1 month for our 5th team project to extract, clean, analyze, visualize, create model and fit the models.
+ We worked independently for 1 month for our 5th team project to extract, clean, analyze, visualize, create model with CNN and fit the models.
  
  ## Data
  The dataset that we are going to use for the image classification is Chest X-Ray images, which consists of 4 categories,  Covid-19, Normal, Viral Pneumonia and     Bacterial Pneumonia.
