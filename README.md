@@ -14,9 +14,10 @@
  Testing observations: 40 (10 Normal cases, 10 Covid-19 cases, 10 Viral Pneumonia cases, 10 Bacterial Pneumonia cases)
  
  ## Tools Used
- CNN 
+  tensorflow, ImageDataGenerator, Sequential
  
  ## Models Used
+ CNN
  
  ## Code 
  Code for this project can be found here: https://github.com/KIMVERONIKA/Medical-X-ray/blob/main/26_01_2023_X-ray_Convolutional_Neural_Network.ipynb
