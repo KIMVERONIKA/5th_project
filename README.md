@@ -19,8 +19,8 @@
  ## Models Used
  
  ## Code 
- Code for this project can be found here: https://github.com/KIMVERONIKA/Medical-X-ray/blob/main/26_01_2023_X-ray_Convolutional_Neural_Network_GSearch.ipynb
-   
+ Code for this project can be found here: https://github.com/KIMVERONIKA/Medical-X-ray/blob/main/26_01_2023_X-ray_Convolutional_Neural_Network.ipynb
+ 
  ## Results
 
  Image Augmentation expands the size of the dataset by creating a modified version of the existing training set images that helps to increase dataset variation and     ultimately improve the ability of the model to predict new images.
