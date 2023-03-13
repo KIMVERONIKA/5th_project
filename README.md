@@ -14,7 +14,7 @@
  Testing observations: 40 (10 Normal cases, 10 Covid-19 cases, 10 Viral Pneumonia cases, 10 Bacterial Pneumonia cases)
  
  ## Tools Used
- CNN and GridSearch
+ CNN 
  
  ## Models Used
  
